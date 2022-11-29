@@ -25,3 +25,16 @@
 - 관련 연구는 LNG에 국한됨 (예 : Chae et al, 2012; 박민혁 외, 2014)
 - 국제 원유가격과 전력가격의 연계성을 분석한 연구는 부족한 설정
 
+![스크린샷 2022-11-29 오후 8 53 07](https://user-images.githubusercontent.com/101313864/204522137-e791a491-8a48-45ac-ad93-b0a5fb3a58aa.png)
+
+![스크린샷 2022-11-29 오후 8 53 21](https://user-images.githubusercontent.com/101313864/204522185-547b8fd0-fb4f-4321-a588-4eea505007d0.png)
+
+![스크린샷 2022-11-29 오후 8 53 30](https://user-images.githubusercontent.com/101313864/204522223-e30f6ff7-4b73-47fe-a3b6-8812f6907e91.png)
+
+![스크린샷 2022-11-29 오후 8 53 46](https://user-images.githubusercontent.com/101313864/204522274-3f2f540a-f549-486f-b7df-fe46cc8e5568.png)
+
+![스크린샷 2022-11-29 오후 8 53 53](https://user-images.githubusercontent.com/101313864/204522299-fb4b09e8-c226-4449-89fa-f2050471ebac.png)
+
+![스크린샷 2022-11-29 오후 8 54 02](https://user-images.githubusercontent.com/101313864/204522323-8559b17e-e419-406e-9f36-e384232df8c2.png)
+
+![스크린샷 2022-11-29 오후 8 54 10](https://user-images.githubusercontent.com/101313864/204522345-5c28ff77-736d-423a-b4c2-c224633e8878.png)
